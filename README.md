@@ -1,5 +1,13 @@
 # SpeechSynthesisサンプル
 
+## 概要
+
+JavaScriptで入力された文字列を読み上げるサンプルプログラムです。
+
+## スクリーンショット
+
+![](screenshot.png)
+
 ## Project setup
 ```
 npm install
